@@ -10,4 +10,4 @@ RUN pip install -r requirements.txt
 ENV PORT = 8000
 EXPOSE 8000
 
-CMD sh start.sh
+CMD sh script.sh
