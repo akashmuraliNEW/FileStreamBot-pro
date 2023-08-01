@@ -10,4 +10,4 @@ RUN pip install -r requirements.txt
 ENV PORT = 8000
 EXPOSE 8000
 
-CMD ["python3","-m","WebStreamer"]
+CMD ["python3","-m","Adarsh"]
